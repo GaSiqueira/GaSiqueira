@@ -23,4 +23,4 @@ Meu nome é Gabriel Siqueira tenho 21 anos, comecei meus estudos em tecnologia e
 - **[TechEmpire](https://github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/README.md)**
 
 ### :iphone: Pode me contatar por:
-![https://www.linkedin.com/in/gabriel-siqueira-54b535279/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- **[LinkedIn](https://www.linkedin.com/in/gabriel-siqueira-54b535279/)**
