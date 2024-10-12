@@ -2,7 +2,7 @@
 ### :question: Quem eu sou:
 Meu nome é Gabriel Siqueira tenho 21 anos, comecei meus estudos em tecnologia em 2021 e desde então sigo desenvolvendo habilidades para a área.
 
-### :pushpin:Objetivos:
+### :pushpin:Principais objetivos e interesses:
 - Estudar e desenvolver inteligência artificial;
 - Desenvolver jogos
 
@@ -19,8 +19,13 @@ Meu nome é Gabriel Siqueira tenho 21 anos, comecei meus estudos em tecnologia e
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### :busts_in_silhouette: Projetos que já participei:
-- **[BetterCallUs](https://github.com/BananaaScript/BetterCallUs/blob/main/README.md)**
-- **[TechEmpire](https://github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/README.md)**
+- **[TechEmpire: ConsultaVid](https://github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/README.md)**
+- **[Codeina: BetterCallUs](https://github.com/BananaaScript/BetterCallUs/blob/main/README.md)**
+- **[BananaScript: SGA](https://github.com/BananaaScript/SGA)**
+- **[BananaScript: Meteorological Data Collector](https://github.com/BananaScripts/Meteorological-Data-Collector)**
+
+### Portfolio:
+-**[Portfolio](https://github.com/GaSiqueira/Portifolio/blob/main/README.md)**
 
 ### :iphone: Pode me contatar por:
-- **[LinkedIn](https://www.linkedin.com/in/gabriel-siqueira-54b535279/)**
+- **[LinkedIn](https://www.linkedin.com/in/gasiq/)**
